@@ -6,9 +6,11 @@
   </samp>
 </p>
 
+<!--
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-2/352357858110734339.png" alt="DiscordBanner"/>
 </p>
+-->
 
 <p align="center">
   <i>I use NixOS btw</i>
